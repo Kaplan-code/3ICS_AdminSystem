@@ -294,5 +294,5 @@ nano fibonacci.sh
 
 chmod u+x fibonacci.sh
 
-On voit que la charge augmente notamment grace au graphique générer par tload.
+On voit que sa augmente notamment grace au graphique générer par tload.
 ```
